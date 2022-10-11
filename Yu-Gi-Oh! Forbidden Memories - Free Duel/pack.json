@@ -1,0 +1,9 @@
+{
+  "name": "Yu-Gi-Oh! Forbidden Memories - Free Duel",
+  "description": "Yu-Gi-Oh! Forbidden Memories - Free Duel",
+  "author": "Stewartisme",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}
